@@ -945,6 +945,24 @@ footer p span {
       margin-top: 10px;
     }
 
+    /* About */
+
+    ul.bio-list li {
+      font-family: "Open Sans", sans-serif;
+      margin-top: 12px;
+      display: flex;
+      font-size: 11px;
+      line-height: 12px;
+    }
+
+
+    .portfolio-item-details p {
+      font-size: 11px;
+      color: #000;
+      text-transform: uppercase;
+      margin: 0;
+      padding: 0;
+      }
 }
 
 /* Medium Devices (Landscape Tablets & Medium Desktop) */
