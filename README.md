@@ -1,1 +1,1 @@
-Github Live at https://jtmedia.ml/
+Website Live at https://jtmedia.ml/
